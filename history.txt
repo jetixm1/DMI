@@ -1,3 +1,6 @@
+  995  firefox
+  996  firefox &
+  997  ans
   998  rand
   999  matlab
  1000  exit
@@ -989,12 +992,9 @@
  1986  history.txt
  1987  chrom
  1988  chromium-browser
- 1989  pwd
- 1990  cd /home
- 1991  cd
+ 1989  nano
+ 1990  cat nano.txt
+ 1991  ls
  1992  pwd
- 1993  ls
- 1994  cd darbi001
- 1995  ls
- 1996  history | grep hist
- 1997  history > history.txt
+ 1993  ls -la
+ 1994  history > history.txt
